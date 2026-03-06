@@ -1,6 +1,6 @@
 
 <div>
-<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
+<img align="center" alt="Header" src="https://github.com/henriquegdc/henriquegdc/blob/main/img/banner3_.jpg"/>
 </div>
 
 -----
@@ -30,6 +30,8 @@
 </tr> 
 </table>
 </div>
+
+-----
 
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Henrique</code>, tenho 24 anos e moro em BH. Atualmente sou <code>estudante</code> no curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> Confira meu portfólio :computer:: <a href="https://aramuni.dev/"></a>
