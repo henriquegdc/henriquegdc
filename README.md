@@ -22,8 +22,6 @@
 </td>
 <td><a href="https://www.linkedin.com/in/henriquegdc/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
@@ -34,7 +32,7 @@
 -----
 
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Henrique</code>, tenho 24 anos e moro em BH. Atualmente sou <code>estudante</code> no curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> Confira meu portfólio :computer:: <a href="https://henriquegdc.dev/"></a>
+<i><b>Olá</b> :wave:, sou o <code>Henrique</code>, tenho 24 anos e moro em BH. Atualmente sou <code>estudante</code> no curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> Confira meu portfólio :computer:: <a href="https://henriquegdc.dev/">henriquegdc.dev</a>
 </div>
 
 -----
